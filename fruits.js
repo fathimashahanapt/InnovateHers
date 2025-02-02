@@ -4,7 +4,7 @@ const products = [
          price: 99,
           oldPrice: 148,
            discount: "33% OFF",
-          image: "./images/tomato.jpg" },
+          image: "./images/grapes.jpg" },
     { name: "Pomegranate",
          description: "Bright red, juicy seeds, antioxidant-packed",
           price: 159,
