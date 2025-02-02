@@ -1,0 +1,78 @@
+/* General Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, green
+  , greenyellow);
+}
+
+/* Form Container */
+.form-container {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 350px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Input Fields */
+input {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 12px;
+  background: greenyellow;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background:green;
+}
+
+/* Toggle Link (Login / Sign Up) */
+.toggle-link {
+  margin-top: 15px;
+}
+
+.toggle-link span {
+  font-size: 14px;
+  color: #666;
+}
+
+.toggle-link a {
+  color: green;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.toggle-link a:hover {
+  text-decoration: underline;
+}
