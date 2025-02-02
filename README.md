@@ -10,7 +10,7 @@
 - Member 2: [Fathima Hiba NM] - [EMEA College of Arts and Science]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://innovate-hers-xsp5.vercel.app/]
 
 ### Project Description
 [The website"GroceryMart", allows users to browse and purchase groceries online. Users can search for products and the website also features about offers,fast delivery and secure payment.]
@@ -40,10 +40,11 @@ For Software:
 [commands]
 
 # Run
-[commands]
+[Open index.html in any latest browser]
 
 ### Project Documentation
 For Software:
+HTML,CSS,JAVA SCRIPT
 
 # Screenshots (Add at least 3)
 ![](Add screenshot 1 here with proper name)
