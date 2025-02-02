@@ -1,31 +1,30 @@
-# [Project Name] 🎯
+# [GroceryMart] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [InnovateHers]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Fathima Shahana PT] - [EMEA College of Arts and Science]
+- Member 2: [Fathima Hiba NM] - [EMEA College of Arts and Science]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The website"GroceryMart", allows users to browse and purchase groceries online. Users can search for products and the website also features about offers,fast delivery and secure payment.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Login and Authentication,Product information]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[user registration,Email verification,chat support]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,JavaScript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,7 +46,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
